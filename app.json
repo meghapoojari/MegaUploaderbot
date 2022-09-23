@@ -14,7 +14,7 @@
         "uploader",
         "youtube"
     ],
-    "repository" : "https://github.com/AJTimePyro/MegaUploaderbot",
+    "repository" : "https://github.com/meghapoojari/MegaUploaderbot",
     "success_url" : "https://t.me/MegaDriveUploaderBot",
     "env" : {
         "BOT_TOKEN" : {
